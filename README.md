@@ -43,7 +43,6 @@ Got tired of button, so I commented it out ...
        }
 
        }
-   }
 
 detectMobileOrientation();
 
